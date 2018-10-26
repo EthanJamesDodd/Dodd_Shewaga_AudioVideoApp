@@ -65,9 +65,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Node.js](https://nodejs.org/en/) - Dependency Management
+* [Sass](https://sass-lang.com/) - Sass/CSS Compiler
+
 
 ## Contributing
 
@@ -80,7 +80,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 * **Ethan Dodd** - *Design/Developement - [Ethan Dodd](https://github.com/EthanJamesDodd) [EthanDodd.ca](EthanDodd.ca)
-* **Drew Shewaga** - *Design/Development - [Drew Shewaga](https://github.com/DrewShewaga) (Shewaga.ca)
+* **Drew Shewaga** - *Design/Development - [Drew Shewaga](https://github.com/DrewShewaga) [Shewaga.ca](Shewaga.ca)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -90,6 +90,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Thanks to Trev for this dope copy paste ReadME
