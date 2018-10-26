@@ -79,8 +79,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Ethan Dodd** - *Design/Developement - [EthanDodd.ca](https://github.com/EthanJamesDodd)
-* **Drew Shewaga** - *Design/Development - [Shewaga.ca](https://github.com/DrewShewaga)
+* **Ethan Dodd** - *Design/Developement - [Ethan Dodd](https://github.com/EthanJamesDodd) [EthanDodd.ca](EthanDodd.ca)
+* **Drew Shewaga** - *Design/Development - [Drew Shewaga](https://github.com/DrewShewaga) (Shewaga.ca)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
