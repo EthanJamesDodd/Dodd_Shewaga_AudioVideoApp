@@ -1,17 +1,22 @@
 # Dodd_Shewaga_AudioVideoApp
 
-
+A Audio/Video app designed for a Android Box/Roku environment. The app will display various medias tiled along a main page
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Clone this repo using 
+```
+Git Clone https://github.com/EthanJamesDodd/Dodd_Shewaga_AudioVideoApp.git
+```
+In your choice of CLI
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
 
 ```
-Give examples
+Examples
 ```
 
 ### Installing
